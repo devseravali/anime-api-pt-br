@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+.env
+*.log
+npm-debug.log*
+.DS_Store
+coverage/
+
+# VSCode
+.vscode/
+
+# Testes
+jest-coverage/
+
+# Sistema
+Thumbs.db
