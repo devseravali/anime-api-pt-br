@@ -1,7 +1,7 @@
 # Node
 node_modules/
 dist/
-.env
+.env*
 *.log
 npm-debug.log*
 .DS_Store
@@ -12,6 +12,46 @@ coverage/
 
 # Testes
 jest-coverage/
+coverage/
 
 # Sistema
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# TypeScript
+*.tsbuildinfo
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.directory
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+logs
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
+*.pid.lock
+
+# npm cache
+.npm
+
+# Yarn
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
