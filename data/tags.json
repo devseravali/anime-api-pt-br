@@ -1,0 +1,122 @@
+[
+    {
+     "id": 1,
+     "nome": "Ação"
+    }, 
+    {
+     "id": 2,
+     "nome": "Aventura"
+    },
+    {
+     "id": 3,
+     "nome": "Shounen"
+    },
+    {
+     "id": 4,
+     "nome": "Suspense"
+    },
+    {
+     "id": 5,
+     "nome": "Fantasia"
+    },
+    {
+     "id": 6,
+     "nome": "Drama"
+    }, 
+    {
+     "id": 7,
+     "nome": "Comédia"
+    },
+    {
+     "id": 8,
+     "nome": "Romance"
+    }, 
+    {
+     "id": 9,
+     "nome": "Sci-Fi"
+    },
+    {
+     "id": 10,
+     "nome": "Terror"
+    }, 
+    {
+     "id": 11,
+     "nome": "Esporte"
+    },
+    {
+     "id": 12,
+     "nome": "Slice of Life"
+    },
+    {
+     "id": 13,
+     "nome": "Mecha"
+    },
+    {
+     "id": 14,
+     "nome": "Musical"
+    },
+    {
+     "id": 15,
+     "nome": "Histórico"
+    },
+    {
+     "id": 16,
+     "nome": "Sobrenatural"
+    },
+    {
+     "id": 17,
+     "nome": "Mistério"
+    },
+    {
+     "id": 18,
+     "nome": "Psicológico"
+    },
+    {
+     "id": 19,
+     "nome": "Harem"
+    },
+    {
+     "id": 20,
+     "nome": "Isekai"
+    }, 
+    {
+     "id": 21,
+     "nome": "Clássico"
+    },
+    {
+     "id": 22,
+     "nome": "Vampiros"
+    },
+    {
+     "id": 23,
+     "nome": "Demônios"
+    },
+    {
+     "id": 24,
+     "nome": "Artes Marciais"
+    },
+    {
+     "id": 25,
+     "nome": "Poderes Especiais"
+    },
+    {
+     "id": 26,
+     "nome": "Viagem no Tempo"
+    },
+    {
+     "id": 27,
+     "nome": "Exorcismo"
+    },
+    {
+     "id": 28,
+     "nome": "Guerra"
+    }, 
+    {
+     "id": 29,
+     "nome": "Culinária"
+    }, 
+    {
+     "id": 30,
+     "nome": "Ecchi"
+    }
+]
