@@ -10,7 +10,7 @@
     // See também https://aka.ms/tsconfig/module
     "module": "ES2020",
     "target": "ES2020",
-    "types": [],
+    "types": ["node"],
 
     // Para nodejs:
     // "lib": ["esnext"],
@@ -38,7 +38,7 @@
     "strict": true,
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
-    "jsx": "react-jsx",
+    // "jsx": "react-jsx",
     "verbatimModuleSyntax": true,
     "isolatedModules": true,
     "noUncheckedSideEffectImports": true,
