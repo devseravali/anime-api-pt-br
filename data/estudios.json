@@ -178,5 +178,29 @@
         "nome": "Dogakobo", 
         "fundacao": 1973, 
         "principaisObras": ["Monthly Girls' Nozaki-kun", "Love Lab"] 
-    }
-  ]  
+    }, 
+    {
+        "id": 31, 
+        "nome": "A-1 Pictures",
+        "fundacao": 2005,
+        "principaisObras": ["Your Lie in April", "Sword Art Online", "Fairy Tail"]
+    }, 
+    {
+        "id": 32,
+        "nome": "Gonzo",
+        "fundacao": "1992",
+        "principaisObras": ["Gankutsuō: O Conde de Monte Cristo", "Afro Samurai", "Last Exile"]
+      }, 
+      {
+        "id": 33,
+        "nome": "Kinema Citrus",
+        "fundacao": 2008,
+        "principaisObras": [
+          "Made in Abyss",
+          "The Rising of the Shield Hero",
+          "Barakamon"
+        ]
+      }    
+    ]
+      
+      
