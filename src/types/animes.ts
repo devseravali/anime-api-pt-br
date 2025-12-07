@@ -1,16 +1,23 @@
-export interface Animes {
-    id: number;
-    titulo: string;
-    ano: number;
-    generoIds: number[];
-    estudioId: number;
-    sinopse: string;
-    temporadaId: number;
-    statusId: number;
-    episodios: number;
-    avaliacao: number;
-    popularidade?: number;
-    capaUrl: string;
-    tagIds?: number[];
-    plataformaIds?: number[];
+export interface AnimeResumo {
+  id: number;
+  slug: string; 
+  arquivo: string; 
+  titulo: string;
+  ano?: number;
+}
+
+export interface AnimeDetalhado {
+  id: number;
+  titulo: string;
+  estudioId: number;
+  generos: number[];
+  plataformas: number[];
+  temporadaId: number;
+  statusId: number;
+  sinopse: string;
+  ano?: number;
+  episodios?: number;
+  capa: string;
+  curiosidades: string[];
+  personagens: number[];
 }
