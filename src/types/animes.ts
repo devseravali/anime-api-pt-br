@@ -3,7 +3,6 @@ export interface AnimeResumo {
   slug: string; 
   arquivo: string; 
   titulo: string;
-  ano?: number;
 }
 
 export interface AnimeDetalhado {
@@ -18,6 +17,5 @@ export interface AnimeDetalhado {
   ano?: number;
   episodios?: number;
   capa: string;
-  curiosidades: string[];
   personagens: number[];
 }
