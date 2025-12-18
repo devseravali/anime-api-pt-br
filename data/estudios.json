@@ -1,206 +1,320 @@
 [
-    { 
-        "id": 1, 
-        "nome": "Studio Pierrot", 
-        "fundacao": 1979, 
-        "principaisObras": ["Naruto", "Bleach", "Yu Yu Hakusho"] 
-    },
-    { 
-        "id": 2, 
-        "nome": "Madhouse", 
-        "fundacao": 1972, 
-        "principaisObras": ["Death Note", "One Punch Man", "Hunter x Hunter"] 
-    },
-    { 
-        "id": 3, 
-        "nome": "Bones",
-        "fundacao": 1998, 
-        "principaisObras": ["Fullmetal Alchemist", "My Hero Academia", "Mob Psycho 100"] 
-    },
-    { 
-        "id": 4, 
-        "nome": "Studio Ghibli", 
-        "fundacao": 1985, 
-        "principaisObras": ["Spirited Away", "My Neighbor Totoro", "Princess Mononoke"] 
-    },
-    { 
-        "id": 5, 
-        "nome": "Kyoto Animation", 
-        "fundacao": 1981, 
-        "principaisObras": ["Clannad", "Vivy: Fluorite Eye's Song", "K-On!"] 
-    },
-    { 
-        "id": 6, 
-        "nome": "Sunrise", 
-        "fundacao": 1972, 
-        "principaisObras": ["Cowboy Bebop", "Gundam", "Code Geass"] 
-    },
-    { 
-        "id": 7, 
-        "nome": "A-1 Pictures", 
-        "fundacao": 2005, 
-        "principaisObras": ["Sword Art Online", "Fairy Tail", "Blue Exorcist"] 
-    },
-    { 
-        "id": 8, 
-        "nome": "White Fox", 
-        "fundacao": 2007, 
-        "principaisObras": ["Steins;Gate", "Re:Zero", "Akame ga Kill!"] 
-    },
-    { 
-        "id": 9, 
-        "nome": "MAPPA", 
-        "fundacao": 2011, 
-        "principaisObras": ["Jujutsu Kaisen", "Yuri on Ice", "Chainsaw Man"] 
-    },
-    { 
-        "id": 10, 
-        "nome": "David Production",  
-        "fundacao": 2007, 
-        "principaisObras": ["JoJo's Bizarre Adventure", "Cells at Work!", "Fire Force"] 
-    },
-    { 
-        "id": 11, 
-        "nome": "TMS Entertainment", 
-        "fundacao": 1946, 
-        "principaisObras": ["Detective Conan", "Lupin III", "Akira"] 
-    },
-    { 
-        "id": 12, 
-        "nome": "P.A. Works", 
-        "fundacao": 2000, 
-        "principaisObras": ["Angel Beats!", "Shirobako", "Nagi no Asukara"] 
-    },
-    { 
-        "id": 13, 
-        "nome": "Silver Link",
-        "fundacao": 2007, 
-        "principaisObras": ["Fate/kaleid liner Prisma☆Illya", "Bofuri", "Masamune-kun's Revenge"] 
-    },
-    { 
-        "id": 14, 
-        "nome": "CloverWorks", 
-        "fundacao": 2018, 
-        "principaisObras": ["The Promised Neverland", "Horimiya", "Wonder Egg Priority"] 
-    },
-    { 
-        "id": 15, 
-        "nome": "Sunrise Beyond", 
-        "fundacao": 2021, 
-        "principaisObras": ["Kaginado", "SD Gundam World Heroes"] 
-    },
-    { 
-        "id": 16, 
-        "nome": "Studio Deen", 
-        "fundacao": 1975, 
-        "principaisObras": ["Fate/stay night", "Higurashi no Naku Koro ni", "Rurouni Kenshin"] 
-    },
-    { 
-        "id": 17, 
-        "nome": "Gainax", 
-        "fundacao": 1984, 
-        "principaisObras": ["Neon Genesis Evangelion", "Gurren Lagann", "FLCL"] 
-    },
-    { 
-        "id": 18, 
-        "nome": "Trigger", 
-        "fundacao": 2011, 
-        "principaisObras": ["Kill la Kill", "Little Witch Academia", "Promare"] 
-    },
-    { 
-        "id": 19, 
-        "nome": "Khara", 
-        "fundacao": 2006, 
-        "principaisObras": ["Rebuild of Evangelion"] 
-    },
-    { 
-        "id": 20, 
-        "nome": "Liden Films", 
-        "fundacao": 2012, 
-        "principaisObras": ["Tokyo Revengers", "Hanebado!", "The Heroic Legend of Arslan"] 
-    },
-    { 
-        "id": 21, 
-        "nome": "Orient", 
-        "fundacao": 2019, 
-        "principaisObras": ["Orient"] 
-    },
-    { 
-        "id": 22, 
-        "nome": "MAPPA Studio 2", 
-        "fundacao": 2015, 
-        "principaisObras": ["Dorohedoro", "Dororo"] 
-    },
-    { 
-        "id": 23, 
-        "nome": "AIC", 
-        "fundacao": 1982, 
-        "principaisObras": ["Tenchi Muyo!", "Bubblegum Crisis", "El Hazard"] 
-    },
-    { 
-        "id": 24, 
-        "nome": "J.C.Staff", 
-        "fundacao": 1986, 
-        "principaisObras": ["Food Wars!", "Toradora!", "One Punch Man (S1)"] 
-    },
-    { 
-        "id": 25, 
-        "nome": "Studio VOLN", 
-        "fundacao": 2014, 
-        "principaisObras": ["Ushio & Tora", "Great Pretender"] 
-    },
-    { 
-        "id": 26, 
-        "nome": "Tezuka Productions", 
-        "fundacao": 1968, 
-        "principaisObras": ["Astro Boy", "Black Jack"] 
-    },
-    { 
-        "id": 27, 
-        "nome": "Brains Base", 
-        "fundacao": 1996, 
-        "principaisObras": ["Durarara!!", "Baccano!"] 
-    },
-    { 
-        "id": 28, 
-        "nome": "C-Station", 
-        "fundacao": 2009, 
-        "principaisObras": ["Asteroid in Love"] 
-    },
-    { 
-        "id": 29, 
-        "nome": "8-Bit", 
-        "fundacao": 2008, 
-        "principaisObras": ["That Time I Got Reincarnated as a Slime"] 
-    },
-    { 
-        "id": 30, 
-        "nome": "Dogakobo", 
-        "fundacao": 1973, 
-        "principaisObras": ["Monthly Girls' Nozaki-kun", "Love Lab"] 
-    }, 
     {
-        "id": 31, 
+        "id": 1,
+        "nome": "Studio Pierrot",
+        "fundacao": 1979,
+        "principaisObras": [
+            "Naruto",
+            "Bleach",
+            "Yu Yu Hakusho"
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Madhouse",
+        "fundacao": 1972,
+        "principaisObras": [
+            "Death Note",
+            "One Punch Man",
+            "Hunter x Hunter"
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Bones",
+        "fundacao": 1998,
+        "principaisObras": [
+            "Fullmetal Alchemist",
+            "My Hero Academia",
+            "Mob Psycho 100"
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Studio Ghibli",
+        "fundacao": 1985,
+        "principaisObras": [
+            "Spirited Away",
+            "My Neighbor Totoro",
+            "Princess Mononoke"
+        ]
+    },
+    {
+        "id": 5,
+        "nome": "Kyoto Animation",
+        "fundacao": 1981,
+        "principaisObras": [
+            "Clannad",
+            "Vivy: Fluorite Eye's Song",
+            "K-On!"
+        ]
+    },
+    {
+        "id": 6,
+        "nome": "Sunrise",
+        "fundacao": 1972,
+        "principaisObras": [
+            "Cowboy Bebop",
+            "Gundam",
+            "Code Geass"
+        ]
+    },
+    {
+        "id": 7,
         "nome": "A-1 Pictures",
         "fundacao": 2005,
-        "principaisObras": ["Your Lie in April", "Sword Art Online", "Fairy Tail"]
-    }, 
+        "principaisObras": [
+            "Sword Art Online",
+            "Fairy Tail",
+            "Blue Exorcist"
+        ]
+    },
+    {
+        "id": 8,
+        "nome": "White Fox",
+        "fundacao": 2007,
+        "principaisObras": [
+            "Steins;Gate",
+            "Re:Zero",
+            "Akame ga Kill!"
+        ]
+    },
+    {
+        "id": 9,
+        "nome": "MAPPA",
+        "fundacao": 2011,
+        "principaisObras": [
+            "Jujutsu Kaisen",
+            "Yuri on Ice",
+            "Chainsaw Man"
+        ]
+    },
+    {
+        "id": 10,
+        "nome": "David Production",
+        "fundacao": 2007,
+        "principaisObras": [
+            "JoJo's Bizarre Adventure",
+            "Cells at Work!",
+            "Fire Force"
+        ]
+    },
+    {
+        "id": 11,
+        "nome": "TMS Entertainment",
+        "fundacao": 1946,
+        "principaisObras": [
+            "Detective Conan",
+            "Lupin III",
+            "Akira"
+        ]
+    },
+    {
+        "id": 12,
+        "nome": "P.A. Works",
+        "fundacao": 2000,
+        "principaisObras": [
+            "Angel Beats!",
+            "Shirobako",
+            "Nagi no Asukara"
+        ]
+    },
+    {
+        "id": 13,
+        "nome": "Silver Link",
+        "fundacao": 2007,
+        "principaisObras": [
+            "Fate/kaleid liner Prisma☆Illya",
+            "Bofuri",
+            "Masamune-kun's Revenge"
+        ]
+    },
+    {
+        "id": 14,
+        "nome": "CloverWorks",
+        "fundacao": 2018,
+        "principaisObras": [
+            "The Promised Neverland",
+            "Horimiya",
+            "Wonder Egg Priority"
+        ]
+    },
+    {
+        "id": 15,
+        "nome": "Sunrise Beyond",
+        "fundacao": 2021,
+        "principaisObras": [
+            "Kaginado",
+            "SD Gundam World Heroes"
+        ]
+    },
+    {
+        "id": 16,
+        "nome": "Studio Deen",
+        "fundacao": 1975,
+        "principaisObras": [
+            "Fate/stay night",
+            "Higurashi no Naku Koro ni",
+            "Rurouni Kenshin"
+        ]
+    },
+    {
+        "id": 17,
+        "nome": "Gainax",
+        "fundacao": 1984,
+        "principaisObras": [
+            "Neon Genesis Evangelion",
+            "Gurren Lagann",
+            "FLCL"
+        ]
+    },
+    {
+        "id": 18,
+        "nome": "Trigger",
+        "fundacao": 2011,
+        "principaisObras": [
+            "Kill la Kill",
+            "Little Witch Academia",
+            "Promare"
+        ]
+    },
+    {
+        "id": 19,
+        "nome": "Khara",
+        "fundacao": 2006,
+        "principaisObras": [
+            "Rebuild of Evangelion"
+        ]
+    },
+    {
+        "id": 20,
+        "nome": "Liden Films",
+        "fundacao": 2012,
+        "principaisObras": [
+            "Tokyo Revengers",
+            "Hanebado!",
+            "The Heroic Legend of Arslan"
+        ]
+    },
+    {
+        "id": 21,
+        "nome": "Orient",
+        "fundacao": 2019,
+        "principaisObras": [
+            "Orient"
+        ]
+    },
+    {
+        "id": 22,
+        "nome": "MAPPA Studio 2",
+        "fundacao": 2015,
+        "principaisObras": [
+            "Dorohedoro",
+            "Dororo"
+        ]
+    },
+    {
+        "id": 23,
+        "nome": "AIC",
+        "fundacao": 1982,
+        "principaisObras": [
+            "Tenchi Muyo!",
+            "Bubblegum Crisis",
+            "El Hazard"
+        ]
+    },
+    {
+        "id": 24,
+        "nome": "J.C.Staff",
+        "fundacao": 1986,
+        "principaisObras": [
+            "Food Wars!",
+            "Toradora!",
+            "One Punch Man (S1)"
+        ]
+    },
+    {
+        "id": 25,
+        "nome": "Studio VOLN",
+        "fundacao": 2014,
+        "principaisObras": [
+            "Ushio & Tora",
+            "Great Pretender"
+        ]
+    },
+    {
+        "id": 26,
+        "nome": "Tezuka Productions",
+        "fundacao": 1968,
+        "principaisObras": [
+            "Astro Boy",
+            "Black Jack"
+        ]
+    },
+    {
+        "id": 27,
+        "nome": "Brains Base",
+        "fundacao": 1996,
+        "principaisObras": [
+            "Durarara!!",
+            "Baccano!"
+        ]
+    },
+    {
+        "id": 28,
+        "nome": "C-Station",
+        "fundacao": 2009,
+        "principaisObras": [
+            "Asteroid in Love"
+        ]
+    },
+    {
+        "id": 29,
+        "nome": "8-Bit",
+        "fundacao": 2008,
+        "principaisObras": [
+            "That Time I Got Reincarnated as a Slime"
+        ]
+    },
+    {
+        "id": 30,
+        "nome": "Dogakobo",
+        "fundacao": 1973,
+        "principaisObras": [
+            "Monthly Girls' Nozaki-kun",
+            "Love Lab"
+        ]
+    },
+    {
+        "id": 31,
+        "nome": "A-1 Pictures",
+        "fundacao": 2005,
+        "principaisObras": [
+            "Your Lie in April",
+            "Sword Art Online",
+            "Fairy Tail"
+        ]
+    },
     {
         "id": 32,
         "nome": "Gonzo",
         "fundacao": "1992",
-        "principaisObras": ["Gankutsuō: O Conde de Monte Cristo", "Afro Samurai", "Last Exile"]
-      }, 
-      {
+        "principaisObras": [
+            "Gankutsuō: O Conde de Monte Cristo",
+            "Afro Samurai",
+            "Last Exile"
+        ]
+    },
+    {
         "id": 33,
         "nome": "Kinema Citrus",
         "fundacao": 2008,
         "principaisObras": [
-          "Made in Abyss",
-          "The Rising of the Shield Hero",
-          "Barakamon"
+            "Made in Abyss",
+            "The Rising of the Shield Hero",
+            "Barakamon"
         ]
-      }    
-    ]
+    }
+]
       
       

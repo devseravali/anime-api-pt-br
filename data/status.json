@@ -1,22 +1,22 @@
 [
-  {
-    "id": 1,
-    "nome": "Em lançamento"
-  },
-  {
-    "id": 2,
-    "nome": "Concluído"
-  },
-  {
-    "id": 3,
-    "nome": "Em hiato"
-  },
-  {
-    "id": 4,
-    "nome": "Na lista para assistir"
-  },
-  {
-    "id": 5,
-    "nome": "Cancelado"
-  }
+    {
+        "id": 1,
+        "nome": "Em lançamento"
+    },
+    {
+        "id": 2,
+        "nome": "Concluído"
+    },
+    {
+        "id": 3,
+        "nome": "Em hiato"
+    },
+    {
+        "id": 4,
+        "nome": "Na lista para assistir"
+    },
+    {
+        "id": 5,
+        "nome": "Cancelado"
+    }
 ]
