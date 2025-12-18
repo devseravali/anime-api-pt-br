@@ -1,0 +1,165 @@
+{
+    "anime": {
+        "id": 1,
+        "nome": "Shingeki no Kyojin",
+        "titulo_portugues": "Ataque dos Titãs",
+        "titulo_ingles": "Attack on Titan",
+        "titulo_japones": "進撃の巨人",
+        "generoId": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "plataformasId": [
+            1,
+            2,
+            3
+        ],
+        "estudiosId": [
+            1,
+            2
+        ],
+        "tagsId": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "temporadas": [
+            {
+                "id": 1,
+                "slug": "shingeki-no-kyojin-s1",
+                "nome": "Shingeki no Kyojin",
+                "temporada": 1,
+                "statusId": 2,
+                "ano": 2013,
+                "episodios": 25,
+                "sinopse": "Há várias centenas de anos, a humanidade foi quase exterminada pelos titãs. Os titãs geralmente têm vários andares de altura, parecem não ter inteligência, devoram seres humanos e, pior de tudo, parecem fazer isso por prazer, e não como fonte de alimento. Uma pequena porcentagem da humanidade sobreviveu se refugiando em uma cidade protegida por muralhas extremamente altas. Avançando para o presente, a cidade não vê um titã há mais de 100 anos. O adolescente Eren e sua irmã adotiva Mikasa testemunham algo horrível quando as muralhas da cidade são destruídas por um titã colossal que surge do nada. Enquanto titãs menores invadem a cidade, os dois jovens assistem horrorizados enquanto sua mãe é devorada viva. Eren jura que irá matar todos os titãs e se vingar por toda a humanidade.",
+                "capaUrl": "images/capas/shingeki-no-kyojin-t1.jpg"
+            },
+            {
+                "id": 2,
+                "slug": "shingeki-no-kyojin-s2",
+                "nome": "Shingeki no Kyojin - 2ª temporada",
+                "temporada": 2,
+                "statusId": 2,
+                "ano": 2017,
+                "episodios": 12,
+                "sinopse": "Eren Jaeger jurou exterminar todos os Titãs, mas em uma batalha pela sua vida, ele acabou se tornando aquilo que mais odeia. Com seus novos poderes, ele luta pela liberdade da humanidade, enfrentando os monstros que ameaçam seu lar. Após uma vitória agridoce contra a Titã Fêmea, Eren não tem tempo para descansar — ​​uma horda de Titãs se aproxima da Muralha Rose e a batalha pela humanidade continua!",
+                "capaUrl": "images/capas/shingeki-no-kyojin-t2.jpg"
+            },
+            {
+                "id": 3,
+                "slug": "shingeki-no-kyojin-s3-1",
+                "nome": "Shingeki no Kyojin - 3ª temporada Parte 1",
+                "temporada": 3,
+                "statusId": 2,
+                "ano": 2018,
+                "episodios": 12,
+                "sinopse": "Eren e seus companheiros do 104º Esquadrão são designados para o recém-formado Esquadrão Levi, cuja missão é proteger Eren e Historia, dado o poder recém-descoberto de Eren e o conhecimento e linhagem de Historia. Levi e Erwin têm bons motivos para se preocupar, pois o padre da Igreja que Hanji havia escondido foi encontrado torturado até a morte, deixando claro que a Polícia Militar está envolvida no acobertamento. A situação se complica ainda mais quando a Polícia Militar ataca Erwin e o Esquadrão Levi escapa por pouco da captura. Eren também está tendo problemas com sua transformação em Titã, e um assassino implacável foi contratado para proteger Eren e Historia, um homem que Levi conhece muito bem de sua juventude.",
+                "capaUrl": "images/shingeki-no-kyojin-t3-p1.jpg"
+            },
+            {
+                "id": 4,
+                "slug": "shingeki-no-kyojin-s3-2",
+                "nome": "Shingeki no Kyojin - 3ª temporada Parte 2",
+                "temporada": 3,
+                "statusId": 2,
+                "ano": 2019,
+                "episodios": 10,
+                "sinopse": "A batalha para retomar a Muralha Maria começa agora! Com a nova habilidade de endurecimento de Eren, a Tropa de Exploração está confiante de que pode selar a muralha e retomar o Distrito de Shiganshina. Se tiverem sucesso, Eren finalmente poderá desvendar os segredos do porão — e do mundo. Mas o perigo espreita, pois Reiner, Bertholdt e o Titã Bestial têm seus próprios planos. Será esta a batalha final da humanidade pela sobrevivência?",
+                "capaUrl": "images/shingeki-no-kyojin-t3-p2.jpg"
+            },
+            {
+                "id": 5,
+                "slug": "shingeki-no-kyojin-s4",
+                "nome": "Shingeki no Kyojin: The Final Season",
+                "temporada": 4,
+                "statusId": 2,
+                "ano": 2020,
+                "episodios": 16,
+                "sinopse": "Quatro anos se passaram desde que o Corpo de Exploração chegou à costa, e o mundo está diferente agora. A situação está se intensificando à medida que o destino do Corpo de Exploração — e do povo de Paradis — é finalmente decidido. No entanto, Eren está desaparecido. Será que ele reaparecerá antes que as antigas tensões entre marleyanos e eldianos resultem na guerra de todas as guerras?",
+                "capaUrl": "images/capas/shingeki-no-kyojin-t4-p1.jpg"
+            },
+            {
+                "id": 6,
+                "slug": "shingeki-no-kyojin-s4-2",
+                "nome": "Shingeki no Kyojin: The Final Season Parte 2",
+                "temporada": 4,
+                "statusId": 2,
+                "ano": 2022,
+                "episodios": 12,
+                "sinopse": "A batalha final pela sobrevivência da humanidade está prestes a começar. Eren Jaeger desencadeou o Rumbling, uma catástrofe que ameaça destruir o mundo inteiro. Agora, seus antigos amigos devem se unir para detê-lo, mesmo que isso signifique enfrentá-lo em combate. Com o destino do mundo em jogo, quem prevalecerá nesta luta épica?",
+                "capaUrl": "images/capas/shingeki-no-kyojin-t4-p2.jpg"
+            },
+            {
+                "id": 7,
+                "slug": "shingeki-no-kyojin-s4-3",
+                "nome": "Shingeki no Kyojin: The Final Season Parte 3",
+                "temporada": 4,
+                "statusId": 2,
+                "ano": 2023,
+                "episodios": 10,
+                "sinopse": "O destino do mundo está em jogo enquanto Eren libera o poder supremo dos Titãs. Com uma determinação ardente de eliminar todos que ameaçam Eldia, ele lidera um exército imparável de Titãs Colossais em direção a Marley. Agora, um grupo heterogêneo de antigos camaradas e inimigos luta para impedir sua missão mortal. A única pergunta é: eles conseguirão detê-lo?",
+                "capaUrl": "images/capas/shingeki-no-kyojin-t4-pt3.jpg"
+            },
+            {
+                "id": 8,
+                "slug": "shingeki-no-kyojin-s4-4",
+                "nome": "Shingeki no Kyojin Gaiden: Kuinaki Sentaku",
+                "temporada": 4,
+                "statusId": 2,
+                "ano": 2024,
+                "episodios": 12,
+                "sinopse": "A conclusão épica de Shingeki no Kyojin está aqui! Com o destino do mundo pendendo na balança, Eren Jaeger enfrenta seus antigos amigos em uma batalha final que determinará o futuro da humanidade. Segredos serão revelados, alianças serão testadas e sacrifícios serão feitos. Prepare-se para uma jornada inesquecível enquanto o destino de Eldia e Marley é decidido de uma vez por todas.",
+                "capaUrl": "images/capas/shingeki-no-kyojin-t4-pt4.jpg"
+            }
+        ],
+        "personagens": [
+            {
+                "id": 100,
+                "nome": "Eren Yeager",
+                "idade_inicial": 15,
+                "sexo": "Masculino",
+                "papel": "Protagonista",
+                "imagem": "images/personagens/eren.jpg",
+                "aniversario": "30 de março",
+                "altura_inicial": "170 cm",
+                "afiliacao": "Tropa de Exploração",
+                "Sobre": [
+                    "Eren nasceu em Shiganshina, distrito da Muralha Maria, filho de Carla e Grisha Yeager. Ele cresceu na cidade com seus pais e sua irmã adotiva, Mikasa, que se mudou para a casa dos Yeager ainda criança. Eren passava a maior parte do tempo com Mikasa e seu melhor amigo em comum, Armin Arlert, a quem os dois frequentemente defendiam dos valentões da vizinhança. Eren é um jovem apaixonado, determinado, teimoso e impulsivo. Quando crianças, Armin mostrou-lhe um livro que descrevia as maravilhas do mundo exterior. Eren passou a compartilhar a curiosidade de Armin pelo mundo além das Muralhas e resolveu vê-lo com seus próprios olhos. Esse sonho inspirou sua admiração pelo Corpo de Investigação e seu desejo de se juntar às suas fileiras assim que se tornasse elegível para o alistamento. Quando os Titãs romperam repentinamente a Muralha Maria e invadiram Shiganshina, Eren foi forçado a assistir enquanto sua mãe ficava presa sob os escombros de sua casa e era devorada por um Titã. Marcado para sempre por esse evento, Eren jurou matar todos os Titãs."
+                ]
+            },
+            {
+                "id": 101,
+                "nome": "Armin Arlert",
+                "idade_inicial": 15,
+                "sexo": "Masculino",
+                "papel": "Amigo do Protagonista",
+                "imagem": "images/personagens/armin.jpg",
+                "aniversario": "3 de novembro",
+                "altura_inicial": "163 cm",
+                "afiliacao": "Tropa de Exploração",
+                "Sobre": [
+                    "Armin é um jovem que nasceu e cresceu no distrito de Shiganshina, dentro das muralhas, sendo amigo de infância de Eren Yeager e Mikasa Ackerman. Após a Muralha Maria ser rompida, ele decidiu se juntar a Mikasa e Eren no exército, tanto para tentar causar um impacto positivo e significativo no mundo, quanto para realizar seu sonho de conhecer o mundo exterior. Desde jovem, o naturalmente curioso Armin sempre teve uma profunda fascinação pelo mundo além das Muralhas. Quando criança, encontrou e estudou um livro ilegal sobre o mundo exterior que pertencia ao seu avô. Ele frequentemente compartilhava o livro e as informações nele contidas com Eren Yeager, seu melhor amigo, e seus sonhos de ver o mundo além das muralhas. Armin foi tachado de herege por outras crianças devido ao seu interesse incomum pelo mundo exterior e, por isso, era frequentemente alvo de bullying. Tímido demais para se defender, Armin muitas vezes dependia de seus amigos Eren e Mikasa Ackerman para protegê-lo dos valentões locais. Isso, somado à sua fragilidade física, era motivo de grande vergonha para Armin, levando-o a ter baixa autoestima e a acreditar que era um fardo para os outros. Por causa disso, Armin sempre teve muita vontade de provar seu valor, especialmente para seus amigos próximos. Armin é conhecido por sua excepcional lealdade e altruísmo. Ele se preocupa constantemente com a segurança de seus amigos e está sempre pronto para se lançar em situações perigosas para salvá-los. Além de sua natureza bondosa e inteligência emocional, Armin é uma pessoa muito analítica. Ele gosta de refletir profundamente sobre as situações e resolver problemas usando sua mente. Essas características de personalidade, em conjunto com sua inteligência, bom senso, equilíbrio, capacidade de planejar com antecedência, ter ideias criativas e pensar fora da caixa, são o que o tornam um grande estrategista. Embora possa parecer um dos fisicamente mais fracos do 104º Corpo de Treinamento, sua incrível inteligência e genialidade estratégica o tornam um recurso inestimável para qualquer equipe."
+                ]
+            },
+            {
+                "id": 102,
+                "nome": "Mikasa Ackerman",
+                "idade_inicial": 15,
+                "sexo": "Feminino",
+                "papel": "Interesse Amoroso do Protagonista",
+                "imagem": "images/personagens/mikasa.jpg",
+                "aniversario": "10 de fevereiro",
+                "altura_inicial": "170 cm - 176 cm",
+                "afiliacao": "Tropa de Exploração",
+                "Sobre": [
+                    "Mikasa é a irmã adotiva de Eren Yaeger e amiga de infância de Armin Arlert , morando com os dois no distrito de Shiganshina, na região sul da Muralha Maria. Quando era jovem, seus pais foram mortos por traficantes de pessoas e ela foi sequestrada. Eren descobriu isso e a ajudou a escapar de seus captores. Mais tarde, Eren lhe deu seu cachecol, que ela usa constantemente e ao qual tem um forte apego emocional. Ela foi adotada pela família Yaeger logo depois. Devido a esses eventos passados, Mikasa compartilha um laço inquebrável com Eren e vive para protegê-lo, preocupando-se constantemente com seu bem-estar. Depois que os Titãs romperam a Muralha Maria e mataram sua mãe e a de Eren, ela escolheu seguir Eren para o exército, a fim de mantê-lo a salvo do perigo. Mesmo criança, Mikasa possuía impressionantes habilidades de luta e força, e essa habilidade foi ainda mais aprimorada durante seu treinamento. Mikasa é considerada um gênio entre todos os recrutas do exército e é incrivelmente habilidosa em combate e agilidade, a ponto de ser conhecida como a melhor soldado do 104º Corpo de Treinamento e se formar em primeiro lugar. Apesar de estar entre os melhores dos melhores, ela permanece humilde e evita demonstrar arrogância. Em última análise, a lealdade de Mikasa permanece com Eren, independentemente das circunstâncias, sendo seu único desejo verdadeiro viver uma vida pacífica ao lado dele."
+                ]
+            }
+        ]
+    }
+}

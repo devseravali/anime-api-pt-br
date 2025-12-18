@@ -1,0 +1,121 @@
+{
+    "anime": {
+        "id": 3,
+        "nome": "Tokyo Ghoul",
+        "titulo_portugues": "Tokyo Ghoul",
+        "titulo_ingles": "Tokyo Ghoul",
+        "titulo_japones": "東京喰種トーキョーグール",
+        "generoId": [
+            2,
+            5,
+            6,
+            7
+        ],
+        "plataformasId": [
+            1
+        ],
+        "estudiosId": [
+            5
+        ],
+        "tagsId": [
+            8,
+            9
+        ],
+        "temporadas": [
+            {
+                "id": 1,
+                "slug": "tokyo-ghoul",
+                "nome": "Tokyo Ghoul",
+                "temporada": 1,
+                "statusId": 2,
+                "ano": 2014,
+                "episodios": 12,
+                "sinopse": "A história de suspense, terror e fantasia sombria se passa em Tóquio, uma cidade assombrada por misteriosos ghouls que devoram humanos. Kaneki, um estudante universitário comum, encontra Rize, uma garota aparentemente inofensiva, mas que se revela uma ghoul. Após um ataque fatal, Kaneki passa por uma cirurgia que o transforma em um meio-ghoul, forçando-o a viver entre dois mundos enquanto luta para manter sua humanidade.",
+                "capaUrl": "images/capas/tokyo-ghoul-t1.jpg"
+            },
+            {
+                "id": 2,
+                "slug": "tokyo-ghoul-root-a",
+                "nome": "Tokyo Ghoul √A",
+                "temporada": 2,
+                "statusId": 2,
+                "ano": 2015,
+                "episodios": 12,
+                "sinopse": "Após ser torturado por Yamori, Kaneki decide abandonar a Anteiku e se juntar à organização Árvore Aogiri em busca de força. Enquanto isso, investigadores da CCG intensificam sua caçada aos ghouls. Touka e os membros da Anteiku tentam compreender as escolhas de Kaneki, enquanto a guerra entre humanos e ghouls se intensifica.",
+                "capaUrl": "images/capas/tokyo-ghoul-t2.jpg"
+            },
+            {
+                "id": 3,
+                "slug": "tokyo-ghoul-re",
+                "nome": "Tokyo Ghoul:re",
+                "temporada": 3,
+                "statusId": 2,
+                "ano": 2018,
+                "episodios": 12,
+                "sinopse": "Dois anos após a queda da Anteiku, a CCG cria o Esquadrão Quinx, humanos modificados para usar habilidades de ghouls. O grupo é liderado por Haise Sasaki, um investigador calmo e habilidoso que sofre com memórias fragmentadas de seu passado, revelando lentamente sua verdadeira identidade.",
+                "capaUrl": "images/capas/tokyo-ghoul-re-t1.jpg"
+            },
+            {
+                "id": 4,
+                "slug": "tokyo-ghoul-re-2nd-season",
+                "nome": "Tokyo Ghoul:re 2nd Season",
+                "temporada": 4,
+                "statusId": 2,
+                "ano": 2018,
+                "episodios": 12,
+                "sinopse": "Kaneki recupera suas memórias e assume seu papel central no conflito entre humanos e ghouls. Com a guerra chegando ao auge, antigas alianças são testadas e o destino de Tóquio será decidido em batalhas finais que definem o futuro de ambos os lados.",
+                "capaUrl": "images/capas/tokyo-ghoul-re-t2.jpg"
+            }
+        ],
+        "personagens": [
+            {
+                "id": 1,
+                "nome": "Ken Kaneki",
+                "idade_inicial": 18,
+                "sexo": "Masculino",
+                "papel": "Protagonista",
+                "imagem": "images/personagens/kaneki.jpg",
+                "aniversario": "20 de dezembro",
+                "altura_inicial": "169 cm",
+                "afiliacao": "Anteiku / Ghouls",
+                "Sobre": "Ken Kaneki é um estudante universitário tímido e introvertido que se torna um meio-ghoul após um transplante de órgãos de Rize Kamishiro. Preso entre o mundo humano e o dos ghouls, ele enfrenta intensos conflitos psicológicos enquanto luta para preservar sua humanidade. Ao longo da história, Kaneki passa por transformações profundas, tornando-se mais forte, determinado e marcado por traumas."
+            },
+            {
+                "id": 2,
+                "nome": "Touka Kirishima",
+                "idade_inicial": 18,
+                "sexo": "Feminino",
+                "papel": "Personagem principal",
+                "imagem": "images/personagens/touka.jpg",
+                "aniversario": "1 de julho",
+                "altura_inicial": "164 cm",
+                "afiliacao": "Anteiku / Ghouls",
+                "Sobre": "Touka Kirishima é uma ghoul que trabalha no café Anteiku e ajuda Kaneki a se adaptar ao mundo dos ghouls. Apesar de sua personalidade forte e agressiva, ela possui um grande senso de justiça e empatia, buscando viver de forma pacífica entre humanos."
+            },
+            {
+                "id": 3,
+                "nome": "Rize Kamishiro",
+                "idade_inicial": 18,
+                "sexo": "Feminino",
+                "papel": "Personagem central",
+                "imagem": "images/personagens/rize.jpg",
+                "aniversario": "8 de Outubro",
+                "altura_inicial": "165 cm",
+                "afiliacao": "Ghouls",
+                "Sobre": "Rize Kamishiro é a ghoul responsável pela transformação de Kaneki. Cruel e manipuladora, ela simboliza o lado mais sombrio dos ghouls. Mesmo após sua morte, sua influência permanece viva na mente e no destino de Kaneki."
+            },
+            {
+                "id": 4,
+                "nome": "Yoshimura",
+                "idade_inicial": 60,
+                "sexo": "Masculino",
+                "papel": "Mentor",
+                "imagem": "images/personagens/yoshimura.jpg",
+                "aniversario": "Não informado",
+                "altura_inicial": "175 cm",
+                "afiliacao": "Anteiku / Ghouls",
+                "Sobre": "Yoshimura é o gerente do café Anteiku e um ghoul sábio que acredita na coexistência pacífica entre humanos e ghouls. Atuando como mentor e figura paterna, ele oferece abrigo e orientação, escondendo um passado poderoso e decisivo para o equilíbrio do mundo."
+            }
+        ]
+    }
+}

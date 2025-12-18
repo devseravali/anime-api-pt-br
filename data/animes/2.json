@@ -1,0 +1,137 @@
+{
+    "anime": {
+        "id": 2,
+        "nome": "Demon Slayer",
+        "titulo_portugues": "Demon Slayer",
+        "titulo_ingles": "Demon Slayer",
+        "titulo_japones": "鬼滅の刃",
+        "generoId": [
+            2,
+            3,
+            4
+        ],
+        "plataformasId": [
+            1,
+            2,
+            3
+        ],
+        "estudiosId": [
+            3,
+            4
+        ],
+        "tagsId": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "temporadas": [
+            {
+                "id": 1,
+                "slug": "demon-slayer",
+                "nome": "Demon Slayer - Kimetsu no Yaiba",
+                "temporada": 1,
+                "statusId": 2,
+                "ano": 2019,
+                "episodios": 26,
+                "sinopse": "É o período Taisho no Japão. Tanjiro, um garoto bondoso que vende carvão para sobreviver, encontra sua família massacrada por um demônio. Para piorar a situação, sua irmã mais nova, Nezuko, a única sobrevivente, foi transformada em um demônio. Embora devastado por essa triste realidade, Tanjiro decide se tornar um \"caçador de demônios\" para que possa transformar sua irmã de volta em humana e matar o demônio que massacrou sua família.",
+                "capaUrl": "images/capas/kimestu-no-yaiba-t1.jpg"
+            },
+            {
+                "id": 2,
+                "slug": "demon-slayer",
+                "nome": "Kimetsu no Yaiba: Mugen Ressha-hen",
+                "temporada": 3,
+                "statusId": 2,
+                "ano": 2021,
+                "episodios": 7,
+                "sinopse": "Tanjiro Kamado e seus companheiros Caçadores de Demônios embarcam em uma missão a bordo do Trem Infinito. Sua nova missão é investigar uma série de desaparecimentos misteriosos, perpetrados por um demônio que vem aterrorizando os passageiros e matando os Caçadores de Demônios que o enfrentam. Juntos, eles devem enfrentar esse inimigo formidável e proteger os inocentes a bordo do trem.",
+                "capaUrl": "images/capas/kimestu-no-yaiba-t2.jpg"
+            },
+            {
+                "id": 3,
+                "slug": "demon-slayer",
+                "nome": "Kimetsu no Yaiba: Yuukaku-hen",
+                "temporada": 4,
+                "statusId": 2,
+                "ano": 2025,
+                "episodios": 11,
+                "sinopse": "Após visitar a residência Rengoku, Tanjirou e seus companheiros se oferecem para uma missão no Distrito do Entretenimento, um lugar onde desejos são vendidos e demônios habitam. Eles viajam ao lado do extravagante Hashira do Som, Tengen Uzui, em busca de um inimigo monstruoso que aterroriza a cidade. Jurados a exterminar criaturas da noite, a caçada continua.",
+                "capaUrl": "images/capas/kimestu-no-yaiba-t3.jpg"
+            },
+            {
+                "id": 4,
+                "slug": "demon-slayer",
+                "nome": "Kimetsu no Yaiba: Katanakaji no Sato-hen",
+                "temporada": 5,
+                "statusId": 1,
+                "ano": 2023,
+                "episodios": 11,
+                "sinopse": "A jornada de Tanjiro o leva à Vila dos Ferreiros, onde ele se reencontra com dois Hashira, membros da elite do Corpo de Extermínio de Demônios: Muichiro Tokito, o Hashira da Névoa, e Mitsuri Kanroji, a Hashira do Amor. Com as sombras dos demônios à espreita, uma nova batalha começa para Tanjiro e seus companheiros.",
+                "capaUrl": "images/capas/kimestu-no-yaiba-t4.jpg"
+            },
+            {
+                "id": 5,
+                "slug": "demon-slayer",
+                "nome": "Kimetsu no Yaiba: Hashira Geiko-hen",
+                "temporada": 6,
+                "statusId": 2,
+                "ano": 2024,
+                "episodios": 8,
+                "sinopse": "Os Hashira são os espadachins de mais alta patente e membros do Corpo de Extermínio de Demônios. O treinamento dos Hashira começou para que eles possam enfrentar a batalha iminente contra Muzan Kibutsuji. Cada um com seus próprios pensamentos e esperanças, uma nova história para Tanjiro e os Hashira começa.",
+                "capaUrl": "images/capas/kimestu-no-yaiba-t5.jpg"
+            }
+        ],
+        "personagens": [
+            {
+                "id": 1,
+                "nome": "Tanjiro Kamado",
+                "idade_inicial": 13,
+                "sexo": "Masculino",
+                "papel": "Protagonista",
+                "imagem": "images/personagens/tanjiro.jpg",
+                "aniversario": "14 de julho",
+                "altura_inicial": "165 cm",
+                "afiliacao": "Caçadores de Demônios",
+                "Sobre": "Tanjiro Kamado é um jovem bondoso e trabalhador que vivia nas montanhas com sua família, sustentando-os com a venda de carvão. Sua vida muda drasticamente quando sua família é brutalmente assassinada por um demônio, restando apenas sua irmã Nezuko, que é transformada em uma. Determinado a salvá-la e a impedir que outras famílias sofram o mesmo destino, Tanjiro se junta ao Corpo de Caçadores de Demônios. Ele possui um olfato extremamente aguçado, capaz de identificar emoções, intenções e pontos fracos de seus inimigos. Apesar da violência do mundo ao seu redor, Tanjiro mantém sua empatia, inclusive pelos demônios, acreditando que eles também foram humanos um dia. Sua jornada é movida pelo desejo de proteger os inocentes e encontrar uma cura para Nezuko."
+            },
+            {
+                "id": 2,
+                "nome": "Nezuko Kamado",
+                "idade_inicial": 12,
+                "sexo": "Feminino",
+                "papel": "Personagem principal",
+                "imagem": "images/personagens/nezuko.jpg",
+                "aniversario": "28 de dezembro",
+                "altura_inicial": "153 cm",
+                "afiliacao": "Caçadores de Demônios",
+                "Sobre": "Nezuko Kamado é a irmã mais nova de Tanjiro, transformada em demônio durante o ataque que matou sua família. Apesar de sua condição, ela demonstra uma força de vontade extraordinária ao resistir ao impulso de atacar humanos. Protegida e treinada por Tanjiro, Nezuko desenvolve habilidades demoníacas únicas, como força sobre-humana e regeneração acelerada, mantendo ainda traços de humanidade e empatia."
+            },
+            {
+                "id": 3,
+                "nome": "Zenitsu Agatsuma",
+                "idade_inicial": 16,
+                "sexo": "Masculino",
+                "papel": "Personagem principal",
+                "imagem": "images/personagens/zenitsu.jpg",
+                "aniversario": "3 de setembro",
+                "altura_inicial": "164.5 cm",
+                "afiliacao": "Caçadores de Demônios",
+                "Sobre": "Zenitsu Agatsuma é um caçador de demônios extremamente medroso e inseguro, frequentemente convencido de que sua morte é iminente. Apesar de sua personalidade covarde, Zenitsu possui um talento natural impressionante para a Respiração do Trovão."
+            },
+            {
+                "id": 4,
+                "nome": "Inosuke Hashibira",
+                "idade_inicial": 15,
+                "sexo": "Masculino",
+                "papel": "Personagem principal",
+                "imagem": "images/personagens/inosuke.jpg",
+                "aniversario": "22 de abril",
+                "altura_inicial": "164 cm",
+                "afiliacao": "Caçadores de Demônios",
+                "Sobre": "Inosuke Hashibira é um caçador de demônios impulsivo e agressivo, criado desde criança por javalis nas montanhas, o que moldou sua personalidade selvagem e competitiva."
+            }
+        ]
+    }
+}

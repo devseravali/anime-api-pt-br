@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "slug": "shingeki-no-kyojin",
+        "arquivo": "1.json",
+        "titulo": "Ataque dos Titãs"
+    },
+    {
+        "id": 2,
+        "slug": "demon-slayer",
+        "arquivo": "2.json",
+        "titulo": "Demon Slayer"
+    },
+    {
+        "id": 3,
+        "slug": "tokyo-ghoul",
+        "arquivo": "3.json",
+        "titulo": "Tokyo Ghoul"
+    }
+]
